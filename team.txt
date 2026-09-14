@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+Miguel
+
+=======
+<<<<<<< HEAD
 Adam Tarkhani
 =======
 Danyel 
 >>>>>>> bede8bb451d4e6341edc9ecdfe3b0c45265833eb
+>>>>>>> 2875635c3944d155c4560bdd6331ab319b2f6bbf
